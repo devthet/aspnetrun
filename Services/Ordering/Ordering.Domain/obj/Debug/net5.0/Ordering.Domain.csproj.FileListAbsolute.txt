@@ -1,0 +1,12 @@
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.deps.json
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/ref/Ordering.Domain.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.pdb
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.csproj.AssemblyReference.cache
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.AssemblyInfoInputs.cache
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.AssemblyInfo.cs
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.csproj.CoreCompileInputs.cache
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/ref/Ordering.Domain.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.pdb

@@ -1,0 +1,15 @@
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.deps.json
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/ref/Ordering.Application.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.pdb
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Domain.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Domain.pdb
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.AssemblyReference.cache
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.AssemblyInfoInputs.cache
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.AssemblyInfo.cs
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.CoreCompileInputs.cache
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.CopyComplete
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/ref/Ordering.Application.dll
+/Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.pdb

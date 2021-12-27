@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ordering.Domain\Ordering.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Contracts\" />
+    <None Remove="Feactures\" />
+    <None Remove="Behaviours\" />
+    <None Remove="Contracts\Persistence\" />
+    <None Remove="Contracts\Infrastructure\" />
+    <None Remove="Models\" />
+    <None Remove="Mappings\" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Feactures\Orders\" />
+    <None Remove="Feactures\Orders\Commands\" />
+    <None Remove="Feactures\Orders\Queries\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Behaviours\" />
+    <Folder Include="Contracts\Persistence\" />
+    <Folder Include="Contracts\Infrastructure\" />
+    <Folder Include="Models\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Feactures\Orders\Commands\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+</Project>
