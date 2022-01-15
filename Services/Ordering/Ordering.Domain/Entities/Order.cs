@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations.Schema;
 using Ordering.Domain.Common;
 
 namespace Ordering.Domain.Entities
@@ -6,6 +7,7 @@ namespace Ordering.Domain.Entities
     public class Order:EntityBase
     {
         public string UserName { get; set; }
+        [Column(TypeName = "decimal(18,2)")]
         public decimal TotalPrice { get; set; }
 
         // BillingAddress

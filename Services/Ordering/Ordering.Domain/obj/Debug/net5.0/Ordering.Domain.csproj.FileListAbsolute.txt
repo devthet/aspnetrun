@@ -10,3 +10,15 @@
 /Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.dll
 /Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/ref/Ordering.Domain.dll
 /Users/thettunoo/Documents/Resources/Microservices/AspnetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.pdb
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.deps.json
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.dll
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\ref\Ordering.Domain.dll
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.AssemblyReference.cache
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfo.cs
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll
+C:\workspace\aspnetrun\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb
