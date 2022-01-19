@@ -2590,8 +2590,8 @@
     },
     "EventBus.Messages/1.0.0": {
       "type": "project",
-      "path": "../../../../AspnetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
-      "msbuildProject": "../../../../AspnetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj"
+      "path": "../../../Buildingblocks/EventBus.Messages/EventBus.Messages.csproj",
+      "msbuildProject": "../../../Buildingblocks/EventBus.Messages/EventBus.Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2635,8 +2635,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\workspace\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
-              "projectPath": "C:\\workspace\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj"
+            "C:\\workspace\\aspnetrun\\Buildingblocks\\EventBus.Messages\\EventBus.Messages.csproj": {
+              "projectPath": "C:\\workspace\\aspnetrun\\Buildingblocks\\EventBus.Messages\\EventBus.Messages.csproj"
             }
           }
         }

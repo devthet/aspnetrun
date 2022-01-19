@@ -94,6 +94,25 @@ services:
     restart: always
     volumes:
     - postgres_data:/var/lib/postgresql/data/:rw
+  ocelotapigw:
+    build:
+      context: C:\workspace\aspnetrun
+      dockerfile: ApiGateways/OceLotApiGw/Dockerfile
+    depends_on:
+      basket.api:
+        condition: service_started
+      catalog.api:
+        condition: service_started
+      discount.api:
+        condition: service_started
+      ordering.api:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ocelotapigw
+    ports:
+    - published: 8010
+      target: 80
   orderdb:
     container_name: orderdb
     environment:

@@ -1,0 +1,12 @@
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.deps.json
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.dll
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\bin\Debug\net5.0\ref\EventBus.Messages.dll
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.pdb
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.AssemblyReference.cache
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfoInputs.cache
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfo.cs
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll
+C:\workspace\AspNetRun\Buildingblocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb
