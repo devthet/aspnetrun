@@ -39,7 +39,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OceLotApiGw", "ApiGateways\OceLotApiGw\OceLotApiGw.csproj", "{0B5B127A-B75F-484A-A6BE-AFBAE932F7DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Aggergator", "ApiGateways\Shopping.Aggergator\Shopping.Aggergator.csproj", "{245C6AC2-36E2-441F-BD3E-5154B7FFE3A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Aggergator", "ApiGateways\Shopping.Aggergator\Shopping.Aggergator.csproj", "{245C6AC2-36E2-441F-BD3E-5154B7FFE3A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DB421CBA-CAAB-42A5-B74A-2B17AB4395B7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

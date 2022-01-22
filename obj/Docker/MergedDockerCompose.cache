@@ -98,6 +98,7 @@ services:
     build:
       context: C:\workspace\aspnetrun
       dockerfile: ApiGateways/OceLotApiGw/Dockerfile
+    container_name: ocelotapigw
     depends_on:
       basket.api:
         condition: service_started
@@ -177,6 +178,27 @@ services:
     - published: 15672
       target: 15672
     restart: always
+  shopping.aggergator:
+    build:
+      context: C:\workspace\aspnetrun
+      dockerfile: ApiGateways/Shopping.Aggergator/Dockerfile
+    container_name: shopping.aggergator
+    depends_on:
+      basket.api:
+        condition: service_started
+      catalog.api:
+        condition: service_started
+      ordering.api:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ApiSettings:BasketUrl: http://basket.api
+      ApiSettings:CatalogUrl: http://catalog.api
+      ApiSettings:OrderingUrl: http://ordering.api
+    image: shoppingaggergator
+    ports:
+    - published: 8005
+      target: 80
 version: '3.4'
 volumes:
   mongo_data: {}
