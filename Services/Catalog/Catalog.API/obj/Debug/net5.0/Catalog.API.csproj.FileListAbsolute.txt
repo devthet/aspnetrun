@@ -71,7 +71,6 @@ C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\staticwebassets\Catalog.API.StaticWebAssets.Manifest.cache
-C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\staticwebassets\Catalog.API.StaticWebAssets.xml
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\scopedcss\bundle\Catalog.API.styles.css
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.RazorTargetAssemblyInfo.cache
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csproj.CopyComplete
@@ -79,3 +78,4 @@ C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\ref\Catalog.API.dll
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.pdb
 C:\workspace\AspNetRun\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.genruntimeconfig.cache
+C:\workspace\aspnetrun\Services\Catalog\Catalog.API\bin\Debug\net5.0\Catalog.API.StaticWebAssets.xml

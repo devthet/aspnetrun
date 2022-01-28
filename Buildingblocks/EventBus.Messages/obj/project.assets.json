@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\AspNetRun\\Buildingblocks\\EventBus.Messages\\EventBus.Messages.csproj",
+      "projectUniqueName": "C:\\workspace\\aspnetrun\\Buildingblocks\\EventBus.Messages\\EventBus.Messages.csproj",
       "projectName": "EventBus.Messages",
-      "projectPath": "C:\\workspace\\AspNetRun\\Buildingblocks\\EventBus.Messages\\EventBus.Messages.csproj",
+      "projectPath": "C:\\workspace\\aspnetrun\\Buildingblocks\\EventBus.Messages\\EventBus.Messages.csproj",
       "packagesPath": "C:\\Users\\DevThet\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\AspNetRun\\Buildingblocks\\EventBus.Messages\\obj\\",
+      "outputPath": "C:\\workspace\\aspnetrun\\Buildingblocks\\EventBus.Messages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DevThet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

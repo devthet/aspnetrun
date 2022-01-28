@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XeA4mm8KXIC+k/YASKxK0+FBmeUZgfnlQGtq586xS0oMkuKrsT297YyOWCwAyYGXg+RmtmEl6sUigsBcbG45tg==",
+  "dgSpecHash": "Ygrlhhiodb4+oN5H9r5UhI6tZl+M1WzSXncGIhazih1By/MoDFg10vTykFgaqG4GzfSd0DgWzEnIhIWjW3TQig==",
   "success": true,
   "projectFilePath": "C:\\workspace\\aspnetrun\\Services\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
@@ -71,7 +71,8 @@
     "C:\\Users\\DevThet\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\DevThet\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\DevThet\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\DevThet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }

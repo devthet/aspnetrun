@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3fh3yURkQuhgr1BiAT6l3CwzbdDRA7zpiWF0dYIywl9k+s2faqiwnbPw92q8z1Qx7wCfxa6FZJKRm/hFXgZFkg==",
+  "dgSpecHash": "C2Z42SENtMBRzVPdtE23/erQB763iFRTsfehrQYkumfzBSn/BeR8UEvs7OGYsvi/Od8BtmALLxYBAdAi9D41fw==",
   "success": true,
   "projectFilePath": "C:\\workspace\\aspnetrun\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,8 @@
     "C:\\Users\\DevThet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "C:\\Users\\DevThet\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+    "C:\\Users\\DevThet\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\DevThet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }

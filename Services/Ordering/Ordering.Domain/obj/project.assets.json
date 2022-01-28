@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\AspNetRun\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+      "projectUniqueName": "C:\\workspace\\aspnetrun\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
       "projectName": "Ordering.Domain",
-      "projectPath": "C:\\workspace\\AspNetRun\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+      "projectPath": "C:\\workspace\\aspnetrun\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
       "packagesPath": "C:\\Users\\DevThet\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\AspNetRun\\Services\\Ordering\\Ordering.Domain\\obj\\",
+      "outputPath": "C:\\workspace\\aspnetrun\\Services\\Ordering\\Ordering.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DevThet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SGqK8qXAszbO7dH/VmeLYtLGizrf+HeOG2SBWDLySHBDwAkd2l6TxfbSLQlDkrLN351S/WjZUro36t/Pon19PA==",
+  "dgSpecHash": "Y7racHwnTMNYfe5WLWToXroZVSXUtTDTYJHBJEXxrhXDg8Pyena3TFoVSNZ2rO+NYRwrFuv+GfyhByP+afhbnQ==",
   "success": true,
   "projectFilePath": "C:\\workspace\\aspnetrun\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,8 @@
     "C:\\Users\\DevThet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\DevThet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    "C:\\Users\\DevThet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\DevThet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }

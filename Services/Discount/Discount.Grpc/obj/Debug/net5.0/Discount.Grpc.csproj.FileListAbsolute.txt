@@ -59,7 +59,6 @@ C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csproj.CoreCompileInputs.cache
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.MvcApplicationPartsAssemblyInfo.cache
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\staticwebassets\Discount.Grpc.StaticWebAssets.Manifest.cache
-C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\staticwebassets\Discount.Grpc.StaticWebAssets.xml
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\scopedcss\bundle\Discount.Grpc.styles.css
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.RazorTargetAssemblyInfo.cache
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csproj.CopyComplete
@@ -67,3 +66,4 @@ C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\ref\Discount.Grpc.dll
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.pdb
 C:\workspace\AspNetRun\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.genruntimeconfig.cache
+C:\workspace\aspnetrun\Services\Discount\Discount.Grpc\bin\Debug\net5.0\Discount.Grpc.StaticWebAssets.xml

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gejoAtsRk9EDPcA68kVGXbEhN7Xc1A/p42BqP/sGaxqSePxl17L50DzNaoJkbKsU1yFiPwaF00dwzC/Ai3IEHw==",
+  "dgSpecHash": "kN2mMnVxfgOa991becQutNMSiZ4NKMwzKE67drRJiY5ZY/o2prI7hIwG20D7muv1Y6oOjJcLPbAxUmwG3LUgWQ==",
   "success": true,
   "projectFilePath": "C:\\workspace\\aspnetrun\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [
@@ -131,7 +131,8 @@
     "C:\\Users\\DevThet\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\DevThet\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\DevThet\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\DevThet\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\DevThet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }

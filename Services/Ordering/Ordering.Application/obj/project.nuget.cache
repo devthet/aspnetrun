@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DtVTJTeQ1+v7FcB2C2YQaZ5gmDhWh6pZ+KlvwsL37PMNdYLKzuWyHVqLZtcEkmFaUNEje0tP4H3JRjf5ZlmfWA==",
+  "dgSpecHash": "sQKZdWp9BHgE0L3RhTzNpSqYWYLRtorMoLZAQ7dww8C1agi55OnjuFOETtWoHukJToOhcYBecaymBbO2WJ1lVA==",
   "success": true,
   "projectFilePath": "C:\\workspace\\aspnetrun\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
   "expectedPackageFiles": [

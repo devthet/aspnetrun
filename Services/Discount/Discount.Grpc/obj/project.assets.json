@@ -957,11 +957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\AspNetRun\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
+      "projectUniqueName": "C:\\workspace\\aspnetrun\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
       "projectName": "Discount.Grpc",
-      "projectPath": "C:\\workspace\\AspNetRun\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
+      "projectPath": "C:\\workspace\\aspnetrun\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
       "packagesPath": "C:\\Users\\DevThet\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\AspNetRun\\Services\\Discount\\Discount.Grpc\\obj\\",
+      "outputPath": "C:\\workspace\\aspnetrun\\Services\\Discount\\Discount.Grpc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DevThet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1017,6 +1017,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1025,7 +1031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

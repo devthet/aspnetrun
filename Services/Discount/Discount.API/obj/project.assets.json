@@ -293,11 +293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\AspNetRun\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+      "projectUniqueName": "C:\\workspace\\aspnetrun\\Services\\Discount\\Discount.API\\Discount.API.csproj",
       "projectName": "Discount.API",
-      "projectPath": "C:\\workspace\\AspNetRun\\Services\\Discount\\Discount.API\\Discount.API.csproj",
+      "projectPath": "C:\\workspace\\aspnetrun\\Services\\Discount\\Discount.API\\Discount.API.csproj",
       "packagesPath": "C:\\Users\\DevThet\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\AspNetRun\\Services\\Discount\\Discount.API\\obj\\",
+      "outputPath": "C:\\workspace\\aspnetrun\\Services\\Discount\\Discount.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DevThet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -349,6 +349,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -357,7 +363,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

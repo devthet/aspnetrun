@@ -56,7 +56,6 @@ C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.API.MvcApplicationPartsAssemblyInfo.cs
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.API.MvcApplicationPartsAssemblyInfo.cache
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\staticwebassets\Ordering.API.StaticWebAssets.Manifest.cache
-C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\staticwebassets\Ordering.API.StaticWebAssets.xml
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\scopedcss\bundle\Ordering.API.styles.css
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.API.RazorTargetAssemblyInfo.cache
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\obj\Debug\net5.0\Ordering.API.csproj.CopyComplete
@@ -118,3 +117,4 @@ C:\workspace\aspnetrun\Services\Ordering\Ordering.API\bin\Debug\net5.0\System.Ru
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\bin\Debug\net5.0\System.Text.Json.dll
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\bin\Debug\net5.0\EventBus.Messages.dll
 C:\workspace\aspnetrun\Services\Ordering\Ordering.API\bin\Debug\net5.0\EventBus.Messages.pdb
+C:\workspace\aspnetrun\Services\Ordering\Ordering.API\bin\Debug\net5.0\Ordering.API.StaticWebAssets.xml
